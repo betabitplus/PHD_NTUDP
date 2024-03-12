@@ -1,0 +1,1 @@
+It was used this dataset: https://universe.roboflow.com/vishi-sapra/object-detection-axukj
