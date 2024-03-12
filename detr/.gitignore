@@ -1,0 +1,10 @@
+balloon/*
+car-model/*
+custom-model/*
+datasets/*
+lightning_logs/*
+dog.jpeg
+output.png
+output2.png
+
+.DS_Store
